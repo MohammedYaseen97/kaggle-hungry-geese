@@ -1,4 +1,4 @@
-My solution to solve a Reinforcement Learning Problem on Kaggle - [Hungry Geese](https://www.kaggle.com/c/hungry-geese).
+My solution to solve a live Reinforcement Learning Problem on Kaggle - [Hungry Geese](https://www.kaggle.com/c/hungry-geese).
 
 My ran : 362/365 (Submission 1)
 
