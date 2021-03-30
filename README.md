@@ -1,4 +1,4 @@
-My solution to solve a Reinforcement Learning Problem on Kaggle - [Hungry Geese](https://www.kaggle.com/c/hungry-geese).
+My solution to solve a live Reinforcement Learning Problem on Kaggle - [Hungry Geese](https://www.kaggle.com/c/hungry-geese).
 
 My rank : 287/423 (and changing constantly)
 
@@ -10,4 +10,4 @@ With Hungry Geese, Kaggle has taken this classic in the video game industry and 
 Extensive research exists in building Snake models using reinforcement learning, Q-learning, neural networks, and more (maybe you’ll use… Python?). Take your grid-based reinforcement learning knowledge to the next level with this exciting new challenge!
 
 ## Approach
-In my approach, i have shown a Greedy model vs Q-Learning model with a lot of help from [Victor de la Fuente's Model](https://www.kaggle.com/victordelafuente/hungrygeese-q-learning-common-sense-knowledge). Tried my best to improve on it.. i'm guessing i did just a little bit :) 
+In my approach, i have shown a Greedy model vs Q-Learning model with a lot of help from [Victor de la Fuente's Model](https://www.kaggle.com/victordelafuente/hungrygeese-q-learning-common-sense-knowledge). Tried my best to improve on it.. i'm guessing i did just a little bit :)
