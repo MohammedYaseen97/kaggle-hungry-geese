@@ -11,3 +11,4 @@ Extensive research exists in building Snake models using reinforcement learning,
 
 ## Approach
 In my approach, i have shown a Greedy model vs Q-Learning model with a lot of help from [Victor de la Fuente's Model](https://www.kaggle.com/victordelafuente/hungrygeese-q-learning-common-sense-knowledge). Tried my best to improve on it.. i'm guessing i did just a little bit :)
+
